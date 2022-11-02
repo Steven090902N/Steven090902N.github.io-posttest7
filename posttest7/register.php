@@ -36,7 +36,7 @@
             </form>
 
             <p>Sudah punya akun?
-                <a href="login.php">Login</a>
+                <a href="lndex.php">Login</a>
             </p>
         
         </div>
